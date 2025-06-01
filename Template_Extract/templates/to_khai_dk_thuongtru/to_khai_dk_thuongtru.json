@@ -1,0 +1,22 @@
+{
+  "cmnd_SDD": {
+    "template": null,
+    "handwriting_template": null
+  },
+  "gioitinh": {
+    "template": null,
+    "handwriting_template": null
+  },
+  "ho_ten": {
+    "template": null,
+    "handwriting_template": null
+  },
+  "new_field": {
+    "template": null,
+    "handwriting_template": null
+  },
+  "ngay_thang_nam_sinh": {
+    "template": null,
+    "handwriting_template": null
+  }
+}

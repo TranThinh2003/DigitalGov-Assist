@@ -1,0 +1,14 @@
+{
+  "diachi": {
+    "template": "./templates/doc1/diachi/diachi_template.png",
+    "handwriting_template": "./templates/doc1/diachi/diachi_hwtemplate.png"
+  },
+  "hoten": {
+    "template": "./templates/doc1/hoten/hoten_template.png",
+    "handwriting_template": "./templates/doc1/hoten/hoten_hwtemplate.png"
+  },
+  "ngay_thang": {
+    "template": "./templates/doc1/ngay_thang/thang_template.png",
+    "handwriting_template": "./templates/doc1/ngay_thang/ngay_thang_hwtemplate.png"
+  }
+}
